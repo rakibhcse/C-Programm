@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673793029 source:c:\users\hp\onedrive\desktop\imp prep\fact\main.c
+	<stdio.h>
+	<stdlib.h>
+
